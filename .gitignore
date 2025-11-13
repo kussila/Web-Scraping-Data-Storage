@@ -1,0 +1,8 @@
+# Ignore your specific virtual environment folder
+data_env/
+
+# Standard Python ignores
+venv/
+.venv/
+__pycache__/
+*.pyc
